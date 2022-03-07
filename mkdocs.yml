@@ -1,0 +1,20 @@
+site_name: Lazrs (bad) Guides
+nav:
+    - Home: index.md
+    - Wii U Unbrick Guide: unbrick.md
+    - RedNAND Guide: rednand.md
+    - Wine Mono: winemono.md
+    - Disc To CEMU: disctocemu.md
+    - About: about.md
+theme:
+  name: material
+  custom_dir: overrides
+  palette:
+    - scheme: default
+      toggle:
+        icon: material/toggle-switch-off-outline
+        name: Switch to dark mode
+    - scheme: slate 
+      toggle:        
+        icon: material/toggle-switch
+        name: Switch to light mode
